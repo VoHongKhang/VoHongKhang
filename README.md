@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <a href="[https://linkedin.com/in/tien-nhm](https://www.linkedin.com/in/khang-vo-543376237/)" target="_blank">
+  <a href="https://www.linkedin.com/in/khang-vo-543376237/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100007879276932" alt="Facebook">
